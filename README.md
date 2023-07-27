@@ -102,6 +102,12 @@ bash <(curl -Ls https://raw.githubusercontent.com/amirmalakie/X-Panel-SSH-User-M
 4- دستور بالا را در ترمینال وارد کنید و مراحل نصب را پیش بروید<br>
 SSL بر روی پورتی که روی پنل تعریف کرده اید نصب فعال شد. <br>
 
+## دستور رسیدن به منو در ترمینال:
+```
+bash /root/xpanel.sh OR bash xpanel.sh
+```
+
+<br><br>
 <picture>
 <img alt="XPanel" src="https://raw.githubusercontent.com/Alirezad07/X-Panel-SSH-User-Management/main/xpanel-1.png">
 </picture>
